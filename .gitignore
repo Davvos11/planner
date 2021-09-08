@@ -240,3 +240,4 @@ sketch
 
 /backend/dist
 /backend/database.txt
+/backend/client_secret*.json
